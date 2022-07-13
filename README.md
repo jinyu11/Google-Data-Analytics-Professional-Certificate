@@ -1,7 +1,7 @@
 # [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
 
 ### [My Certificate URL]()
-![]()
+![](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~GXVETXXWR9H2/CERTIFICATE_LANDING_PAGE~GXVETXXWR9H2.jpeg)
 
 ---
 ### About this Professional Certificate
